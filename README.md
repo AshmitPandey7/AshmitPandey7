@@ -113,20 +113,12 @@ A university planner built to help students organize classes, attendance, assign
 ---
 # 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshmitPandey7&theme=tokyonight" width="100%" />
-</p>
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshmitPandey7&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshmitPandey7&theme=tokyonight" width="48%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AshmitPandey7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitPandey7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshmitPandey7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitPandey7&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 ---
 
 # 🌱 Currently Learning
