@@ -157,10 +157,3 @@ while(alive){
 
 ---
 
-<p align="center">
-⭐ If you like my work, consider checking out my repositories and dropping a star!
-</p>
-
-<p align="center">
-Thanks for visiting! 👨‍💻
-</p>
