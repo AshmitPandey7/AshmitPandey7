@@ -16,7 +16,7 @@ Passionate about Full Stack Development, modern web technologies, and building p
 
 # 🚀 About Me
 
-- 🎓 Computer Science Engineering undergraduate at **VIT Vellore (Class of 2029)**.
+- 🎓 Computer Science Engineering undergraduate at **VIT Vellore**.
 - 💻 Passionate about **Full Stack Development**, software engineering, and building scalable web applications.
 - 🌱 Currently exploring **Next.js, TypeScript, Backend Development, Docker, Cloud Computing, and System Design**.
 - 🚀 Frontend Developer contributing to collaborative projects while continuously improving problem-solving skills.
@@ -93,22 +93,6 @@ A web application for monitoring and visualizing air quality metrics through int
 - Pollution monitoring
 - Environmental analytics
 - Data visualization
-
----
-
-## 📅 Attendix
-
-A university planner built to help students organize classes, attendance, assignments, and academic schedules efficiently.
-
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript
-
-**Highlights**
-- Student productivity tools
-- Responsive interface
-- Academic planning made simple
 
 ---
 # 📊 GitHub Stats
