@@ -111,15 +111,12 @@ A university planner built to help students organize classes, attendance, assign
 - Academic planning made simple
 
 ---
-# 📊 GitHub Overview
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AshmitPandey7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitPandey7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AshmitPandey7&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AshmitPandey7&layout=compact&theme=tokyonight"/>
 </p>
----
 
 # 🌱 Currently Learning
 
