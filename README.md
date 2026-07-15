@@ -1,104 +1,130 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ashmit!;Computer+Science+Student+at+VIT+Vellore;Full+Stack+Developer;Always+Learning+%26+Building;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ashmit!;Computer+Science+Student+at+VIT+Vellore;Full+Stack+Developer;Building+Projects+%F0%9F%9A%80;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Ashmit Pandey</h1>
+
+<h3 align="center">
+Computer Science Engineering Undergraduate • VIT Vellore
+</h3>
+
+<p align="center">
+Passionate about building scalable web applications, learning modern technologies, and solving real-world problems through software.
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🎓 Computer Science Engineering undergraduate at **VIT Vellore (Class of 2029)**.
-- 💻 Passionate about **Full Stack Development**, software engineering, and building real-world applications.
-- 🌱 Currently learning and working with modern web technologies while exploring backend development, cloud computing, and AI-powered applications.
-- 🚀 Frontend Developer contributing to collaborative projects and constantly improving my problem-solving skills.
-- 🤝 Always open to collaborating on innovative projects, hackathons, and open-source contributions.
+- 🎓 Computer Science Engineering undergraduate at **VIT Vellore (Class of 2029)**
+- 💻 Passionate about **Full Stack Development** and modern web technologies
+- 🌱 Currently learning **Next.js, TypeScript, Backend Development, Docker, and Cloud Computing**
+- ⚡ Love building projects that solve real-world problems
+- 🤝 Open to collaborating on interesting software projects and hackathons
+- 📚 Currently improving my **DSA**, **System Design**, and **Software Development** skills
 
 ---
 
-# 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,java,python,cpp,c,mysql,git,github,docker,linux,vscode,idea" />
 </p>
 
 ---
 
 # 💻 Featured Projects
 
-## 🌐 CommUnique
-
-A real-time multilingual communication platform designed to enable seamless conversations across multiple languages with low latency.
-
-- **Tech Stack:** Python, Flask, Socket.IO, Groq API, HTML, CSS
-- **Highlights:** Built a translation workflow capable of handling multilingual conversations in real time using NLP-powered APIs.
-
----
-
 ## 📚 StudyHub
 
-A modern student collaboration platform aimed at simplifying access to academic resources and enhancing the campus learning experience.
+A collaborative student platform designed to simplify access to academic resources, notes, and campus utilities through a modern, responsive interface.
 
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS
-- **Highlights:** Developing responsive user interfaces with reusable components and a clean, intuitive user experience.
+**Tech Stack**
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+**Highlights**
+- Developed responsive UI components
+- Built reusable frontend architecture
+- Worked collaboratively using Git and GitHub
 
 ---
 
-## 🐾 Animal Detector
+## 📅 Attendix
 
-An image classification project that identifies different animal species using machine learning techniques.
+A university planner that helps students organize classes, attendance, assignments, and academic schedules.
 
-- **Tech Stack:** Python
-- **Highlights:** Explored computer vision workflows, dataset preprocessing, and model evaluation.
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+
+**Highlights**
+- Clean and responsive interface
+- Student-focused productivity features
+- Lightweight and easy to use
+
+---
+
+## 🌍 Air Quality Pollution Tracking Portal
+
+A web application that monitors and visualizes air quality data to provide meaningful environmental insights.
+
+**Tech Stack**
+- Python
+
+**Highlights**
+- Data visualization
+- Pollution monitoring
+- Environmental analytics
+
+---
+
+## 🌾 Seasonal Forecast Agriculture Advisory System
+
+An intelligent platform that provides seasonal weather forecasts and agricultural recommendations.
+
+**Tech Stack**
+- Python
+
+**Highlights**
+- Weather prediction
+- Agricultural recommendations
+- Data-driven insights
+
+---
+
+## 💊 MedDispenser Project
+
+A healthcare web application for managing medicines and improving medication accessibility.
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+
+**Highlights**
+- User-friendly interface
+- Medicine management
+- Responsive design
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AshmitPandey7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitPandey7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+---
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AshmitPandey7&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -106,37 +132,45 @@ An image classification project that identifies different animal species using m
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshmitPandey7&theme=tokyo-night"/>
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<p align="center">
+
+<a href="https://github.com/AshmitPandey7">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add these once you have them -->
+<!-- Uncomment after creating profiles -->
 
 <!--
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/your_username">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/yourusername">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="mailto:youremail@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 -->
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=AshmitPandey7&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+<p align="center">
+<i>Thanks for visiting! ⭐ Feel free to explore my repositories and connect with me.</i>
 </p>
