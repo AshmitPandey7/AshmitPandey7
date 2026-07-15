@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there,+I'm+Ashmit!;Computer+Science+Student;Full+Stack+Developer;Next.js+%7C+Java+%7C+Python;Always+Learning+New+Things" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ashmit Pandey</h1>
+<h1 align="center">Hi, I'm Ashmit Pandey</h1>
 
 <h3 align="center">
 Computer Science Engineering Undergraduate • VIT Vellore
