@@ -35,7 +35,7 @@ Passionate about Full Stack Development, modern web technologies, and building p
 
 #  Featured Projects
 
-##   StudyHub
+##  - StudyHub
 
 A collaborative student platform designed to simplify access to academic resources, notes, and campus utilities through a modern and responsive interface. Frontend developer.
 
@@ -52,7 +52,7 @@ A collaborative student platform designed to simplify access to academic resourc
 
 ---
 
-##   MedDispenser Project
+##  - MedDispenser Project
 
 A healthcare web application focused on simplifying medicine management and improving medication accessibility.
 
@@ -68,7 +68,7 @@ A healthcare web application focused on simplifying medicine management and impr
 
 ---
 
-##  Seasonal Forecast Agriculture Advisory System
+## - Seasonal Forecast Agriculture Advisory System
 
 An intelligent advisory platform that provides seasonal weather forecasts and agricultural recommendations using predictive analytics.
 
@@ -82,7 +82,7 @@ An intelligent advisory platform that provides seasonal weather forecasts and ag
 
 ---
 
-##  Air Quality Pollution Tracking Portal
+## - Air Quality Pollution Tracking Portal
 
 A web application for monitoring and visualizing air quality metrics through interactive dashboards.
 
