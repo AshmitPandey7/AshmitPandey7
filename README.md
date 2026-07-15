@@ -118,16 +118,6 @@ A university planner built to help students organize classes, attendance, assign
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AshmitPandey7&layout=compact&theme=tokyonight"/>
 </p>
 
-# 🌱 Currently Learning
-
-- ⚛️ Advanced Next.js
-- 🔷 TypeScript
-- 🐳 Docker
-- ☁️ Cloud Computing
-- 🏗️ Backend Development
-- 📚 Data Structures & Algorithms
-- ⚡ System Design
-
 ---
 
 # 🎯 Areas of Interest
