@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Ashmit!;Computer+Science+Student+at+VIT+Vellore;Full+Stack+Developer;Building+Projects+🚀;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ashmit Pandey (अश्मित)</h1>
+<h1 align="center">Hi 👋, I'm Ashmit Pandey</h1>
 
 <h3 align="center">
 Computer Science Engineering Undergraduate • VIT Vellore
@@ -28,7 +28,7 @@ Passionate about Full Stack Development, modern web technologies, and building p
 # 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,java,python,cpp,c,mysql,git,github,docker,linux,vscode,idea" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,java,python,cpp,c,mysql,git,github,docker,linux,vscode,idea" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -115,17 +115,17 @@ A university planner built to help students organize classes, attendance, assign
 # 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshmitPandey7&theme=tokyonight" width="100%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshmitPandey7&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshmitPandey7&theme=tokyonight" width="48%" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshmitPandey7&theme=tokyonight" width="48%" alt="Most Commits Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshmitPandey7&theme=tokyonight" width="48%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshmitPandey7&theme=tokyonight" width="48%" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshmitPandey7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitPandey7&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshmitPandey7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Readme Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitPandtop-langs/?username=AshmitPandey7&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 ---
@@ -157,18 +157,17 @@ A university planner built to help students organize classes, attendance, assign
 # 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/AshmitPandey7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
 
-<a href="https://github.com/AshmitPandey7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</p>
+  </p>
 
 ---
 
 ## 📌 Fun Fact
 
-```c
+```text
 while(alive){
     eat();
     code();
