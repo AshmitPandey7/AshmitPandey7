@@ -37,7 +37,7 @@ Passionate about Full Stack Development, modern web technologies, and building p
 
 ## 📚 StudyHub
 
-A collaborative student platform designed to simplify access to academic resources, notes, and campus utilities through a modern and responsive interface.
+A collaborative student platform designed to simplify access to academic resources, notes, and campus utilities through a modern and responsive interface. Frontend developer.
 
 **Tech Stack**
 - Next.js
