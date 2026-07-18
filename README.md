@@ -111,7 +111,7 @@ A web application for monitoring and visualizing air quality metrics through int
 - 🧠 Software Engineering
 - ☁️ Cloud Computing
 - 📱 Web Development
-- 🚀 Open Source
+- 🚀 Open Source Projects
 - 💡 Problem Solving
 
 ---
