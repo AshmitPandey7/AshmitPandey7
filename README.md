@@ -142,7 +142,7 @@ A web application for monitoring and visualizing air quality metrics through int
 
 </p>
 
----
+--- 
 
 ##   Fun Fact
 
