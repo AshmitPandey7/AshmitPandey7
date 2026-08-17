@@ -147,7 +147,7 @@ A web application for monitoring and visualizing air quality metrics through int
 ##   Fun Fact
 
 ```text
-while(alive){
+while (alive){
     eat();
     code();
     learn();
