@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there,+I'm+Ashmit!;Computer+Science+Student;Full+Stack+Developer;Next.js+%7C+Java+%7C+Python;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there,+I'm+Ashmit!;Computer+Science+Student;Full+Stack+Developer;Next.js+%7C+Java+%7C+Python;Always+Learning+New+Things" />
 </p>
 
-<h1 align="center">Hi, I'm Ashmit Pandey 👋</h1>
+<h1 align="center">Hi, I'm Ashmit Pandey</h1>
 
 <h3 align="center">
 Computer Science Engineering Undergraduate • VIT Vellore
@@ -14,39 +14,41 @@ Passionate about Full Stack Development, modern web technologies, and building p
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-- 🎓 Computer Science Engineering undergraduate at **VIT Vellore**
-- 💻 Passionate about **Full Stack Development**, software engineering, and building scalable web applications
-- 🌱 Currently exploring **Next.js, TypeScript, Backend Development, Docker, Cloud Computing, and System Design**
-- 🤝 Frontend Developer contributing to collaborative projects while continuously improving problem-solving skills
-- 🧠 Constantly learning **Data Structures & Algorithms**, modern development practices, and clean software architecture
-- 🚀 Open to collaborating on interesting software projects, hackathons, and open-source contributions
+- Computer Science Engineering undergraduate at **VIT Vellore**
+- Passionate about **Full Stack Development**, software engineering, and building scalable web applications
+- Currently exploring **Next.js, TypeScript, Backend Development, Docker, Cloud Computing, and System Design**
+- Frontend Developer contributing to collaborative projects while continuously improving problem-solving skills
+- Constantly learning **Data Structures & Algorithms**, modern development practices, and clean software architecture
+- Open to collaborating on interesting software projects, hackathons, and open-source contributions
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,java,python,cpp,c,mysql,git,github,docker,linux,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,java,python,cpp,c,mysql,git,github,docker,linux,vscode,idea" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 📚 StudyHub
+## StudyHub
 
 A collaborative student platform designed to simplify access to academic resources, notes, and campus utilities through a modern and responsive interface.
 
 **Role:** Frontend Developer
 
-**Tech Stack**
+### Tech Stack
+
 - Next.js
 - TypeScript
 - Tailwind CSS
 
-**Highlights**
+### Highlights
+
 - Responsive frontend development
 - Reusable UI components
 - Collaborative Git workflow
@@ -54,93 +56,102 @@ A collaborative student platform designed to simplify access to academic resourc
 
 ---
 
-## 💊 MedDispenser Project
+## MedDispenser Project
 
 A healthcare web application focused on simplifying medicine management and improving medication accessibility.
 
-**Tech Stack**
+### Tech Stack
+
 - HTML
 - CSS
 - JavaScript
 
-**Highlights**
+### Highlights
+
 - User-friendly interface
 - Responsive design
 - Medicine management system
 
 ---
 
-## 🌾 Seasonal Forecast Agriculture Advisory System
+## Seasonal Forecast Agriculture Advisory System
 
 An intelligent advisory platform that provides seasonal weather forecasts and agricultural recommendations using predictive analytics.
 
-**Tech Stack**
+### Tech Stack
+
 - Python
 
-**Highlights**
+### Highlights
+
 - Seasonal forecasting
 - Agricultural recommendations
 - Data-driven insights
 
 ---
 
-## 🌍 Air Quality Pollution Tracking Portal
+## Air Quality Pollution Tracking Portal
 
 A web application for monitoring and visualizing air quality metrics through interactive dashboards.
 
-**Tech Stack**
+### Tech Stack
+
 - Python
 
-**Highlights**
+### Highlights
+
 - Pollution monitoring
 - Environmental analytics
 - Data visualization
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AshmitPandey7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshmitPandey7&theme=tokyonight" />
+</p>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitPandey7&layout=compact&theme=tokyonight&langs_count=8" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshmitPandey7&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshmitPandey7&theme=tokyonight" />
 </p>
 
 ---
 
-# 🎯 Areas of Interest
+# Areas of Interest
 
-- 🌐 Full Stack Development
-- 🤖 Artificial Intelligence
-- 🧠 Software Engineering
-- ☁️ Cloud Computing
-- 📱 Web Development
-- 🚀 Open Source Projects
-- 💡 Problem Solving
+- Full Stack Development
+- Artificial Intelligence
+- Software Engineering
+- Cloud Computing
+- Web Development
+- Open Source Projects
+- Problem Solving
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/AshmitPandey7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your profiles later -->
+<!-- Add these when ready -->
 
 <!--
 <a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/yourusername">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 -->
 
@@ -148,7 +159,7 @@ A web application for monitoring and visualizing air quality metrics through int
 
 ---
 
-# ⚡ Fun Fact
+# Fun Fact
 
 ```text
 while (alive) {
