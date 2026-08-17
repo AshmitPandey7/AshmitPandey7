@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there,+I'm+Ashmit!;Computer+Science+Student;Full+Stack+Developer;Next.js+%7C+Java+%7C+Python;Always+Learning+New+Things" />
 </p>
 
-<h1 align="center">Hi, I'm Ashmit Pandey</h1>
+<h1 align="center">Hi, I'm Ashmit Pandey 👋</h1>
 
 <h3 align="center">
 Computer Science Engineering Undergraduate • VIT Vellore
@@ -14,18 +14,18 @@ Passionate about Full Stack Development, modern web technologies, and building p
 
 ---
 
-#  About Me
+# 👨‍💻 About Me
 
--  Computer Science Engineering undergraduate at **VIT Vellore**.
--  Passionate about **Full Stack Development**, software engineering, and building scalable web applications.
--  Currently exploring **Next.js, TypeScript, Backend Development, Docker, Cloud Computing, and System Design**.
--  Frontend Developer contributing to collaborative projects while continuously improving problem-solving skills.
--  Constantly learning Data Structures & Algorithms, modern development practices, and clean software architecture.
--  Open to collaborating on interesting software projects, hackathons, and open-source contributions.
+- 🎓 Computer Science Engineering undergraduate at **VIT Vellore**
+- 💻 Passionate about **Full Stack Development**, software engineering, and building scalable web applications
+- 🌱 Currently exploring **Next.js, TypeScript, Backend Development, Docker, Cloud Computing, and System Design**
+- 🤝 Frontend Developer contributing to collaborative projects while continuously improving problem-solving skills
+- 🧠 Constantly learning **Data Structures & Algorithms**, modern development practices, and clean software architecture
+- 🚀 Open to collaborating on interesting software projects, hackathons, and open-source contributions
 
 ---
 
-#  Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,java,python,cpp,c,mysql,git,github,docker,linux,vscode,idea" />
@@ -33,11 +33,13 @@ Passionate about Full Stack Development, modern web technologies, and building p
 
 ---
 
-#  Featured Projects
+# 🚀 Featured Projects
 
-##  - StudyHub
+## 📚 StudyHub
 
-A collaborative student platform designed to simplify access to academic resources, notes, and campus utilities through a modern and responsive interface. Frontend developer.
+A collaborative student platform designed to simplify access to academic resources, notes, and campus utilities through a modern and responsive interface.
+
+**Role:** Frontend Developer
 
 **Tech Stack**
 - Next.js
@@ -52,7 +54,7 @@ A collaborative student platform designed to simplify access to academic resourc
 
 ---
 
-##  - MedDispenser Project
+## 💊 MedDispenser Project
 
 A healthcare web application focused on simplifying medicine management and improving medication accessibility.
 
@@ -68,7 +70,7 @@ A healthcare web application focused on simplifying medicine management and impr
 
 ---
 
-## - Seasonal Forecast Agriculture Advisory System
+## 🌾 Seasonal Forecast Agriculture Advisory System
 
 An intelligent advisory platform that provides seasonal weather forecasts and agricultural recommendations using predictive analytics.
 
@@ -82,7 +84,7 @@ An intelligent advisory platform that provides seasonal weather forecasts and ag
 
 ---
 
-## - Air Quality Pollution Tracking Portal
+## 🌍 Air Quality Pollution Tracking Portal
 
 A web application for monitoring and visualizing air quality metrics through interactive dashboards.
 
@@ -95,16 +97,18 @@ A web application for monitoring and visualizing air quality metrics through int
 - Data visualization
 
 ---
-#  GitHub Stats
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AshmitPandey7&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AshmitPandey7&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AshmitPandey7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmitPandey7&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
 
-#   Areas of Interest
+# 🎯 Areas of Interest
 
 - 🌐 Full Stack Development
 - 🤖 Artificial Intelligence
@@ -116,7 +120,7 @@ A web application for monitoring and visualizing air quality metrics through int
 
 ---
 
-#   Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -124,7 +128,7 @@ A web application for monitoring and visualizing air quality metrics through int
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add these later -->
+<!-- Add your profiles later -->
 
 <!--
 <a href="https://linkedin.com/in/your-linkedin">
@@ -142,18 +146,14 @@ A web application for monitoring and visualizing air quality metrics through int
 
 </p>
 
---- 
+---
 
-##   Fun Fact
+# ⚡ Fun Fact
 
 ```text
-while (alive){
+while (alive) {
     eat();
     code();
     learn();
     repeat();
 }
-```
-
----
-
